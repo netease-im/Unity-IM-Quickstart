@@ -39,7 +39,7 @@ _Other Languages: [English](README.md)_
 
 ### 前提条件
 - [已创建应用并获取`App Key`](https://doc.yunxin.163.com/nertc/docs/DE3NDM0NTI?platform=unity) 
-- 已联系网易云信工作人员开通相关能力，并注册自己的IM 账号
+- 已联系网易云信工作人员开通相关能力，并[注册自己的IM 账号](https://doc.yunxin.163.com/messaging/docs/jMwMTQxODk?platform=android)
 - [已下载Unity IM SDK](https://doc.yunxin.163.com/messaging/sdk-download?platform=unity) 
 
 ### 运行示例项目

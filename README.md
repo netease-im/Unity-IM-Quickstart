@@ -39,8 +39,8 @@ Before starting the demo project, make sure your development environment meets t
 
 ### Prerequisites
 
-- Create a project and get `App Key`
-- You have contacted CommsEase technical support, activated required services and signed up your IM account.
+- [Create a project and get `App Key`](https://doc.yunxin.163.com/nertc/docs/DE3NDM0NTI?platform=unity)
+- You have contacted CommsEase technical support, activated required services and [signed up your IM account](https://doc.yunxin.163.com/messaging/docs/jMwMTQxODk?platform=android).
 - [NIM SDK for Unity downloaded](https://doc.commsease.com/en/messaging/sdk-download) 
 
 ### Run the demo app
